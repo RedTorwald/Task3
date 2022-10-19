@@ -1,0 +1,85 @@
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.exe
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.deps.json
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.runtimeconfig.json
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.dll
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.pdb
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.AssemblyReference.cache
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.Form1.resources
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.GenerateResource.cache
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.AssemblyInfoInputs.cache
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.AssemblyInfo.cs
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.CoreCompileInputs.cache
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.dll
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\refint\TaskForm3.dll
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.pdb
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.genruntimeconfig.cache
+C:\Users\Komp_\Desktop\Развлечения\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\ref\TaskForm3.dll
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.exe
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.deps.json
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.runtimeconfig.json
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.dll
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.pdb
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.AssemblyReference.cache
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.Form1.resources
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.GenerateResource.cache
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.AssemblyInfoInputs.cache
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.AssemblyInfo.cs
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.CoreCompileInputs.cache
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.dll
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\refint\TaskForm3.dll
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.pdb
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.genruntimeconfig.cache
+C:\Users\Komp_\Desktop\TaskForm3\TaskForm3\obj\Debug\net6.0-windows\ref\TaskForm3.dll
+C:\Users\Komp_\Desktop\switch\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.exe
+C:\Users\Komp_\Desktop\switch\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.deps.json
+C:\Users\Komp_\Desktop\switch\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.runtimeconfig.json
+C:\Users\Komp_\Desktop\switch\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.dll
+C:\Users\Komp_\Desktop\switch\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.pdb
+C:\Users\Komp_\Desktop\switch\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.AssemblyReference.cache
+C:\Users\Komp_\Desktop\switch\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.Form1.resources
+C:\Users\Komp_\Desktop\switch\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.GenerateResource.cache
+C:\Users\Komp_\Desktop\switch\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komp_\Desktop\switch\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.AssemblyInfoInputs.cache
+C:\Users\Komp_\Desktop\switch\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.AssemblyInfo.cs
+C:\Users\Komp_\Desktop\switch\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.CoreCompileInputs.cache
+C:\Users\Komp_\Desktop\switch\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.dll
+C:\Users\Komp_\Desktop\switch\TaskForm3\obj\Debug\net6.0-windows\refint\TaskForm3.dll
+C:\Users\Komp_\Desktop\switch\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.pdb
+C:\Users\Komp_\Desktop\switch\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.genruntimeconfig.cache
+C:\Users\Komp_\Desktop\switch\TaskForm3\obj\Debug\net6.0-windows\ref\TaskForm3.dll
+C:\Users\Komp_\Desktop\End Version\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.exe
+C:\Users\Komp_\Desktop\End Version\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.deps.json
+C:\Users\Komp_\Desktop\End Version\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.runtimeconfig.json
+C:\Users\Komp_\Desktop\End Version\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.dll
+C:\Users\Komp_\Desktop\End Version\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.pdb
+C:\Users\Komp_\Desktop\End Version\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.AssemblyReference.cache
+C:\Users\Komp_\Desktop\End Version\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.Form1.resources
+C:\Users\Komp_\Desktop\End Version\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.GenerateResource.cache
+C:\Users\Komp_\Desktop\End Version\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komp_\Desktop\End Version\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.AssemblyInfoInputs.cache
+C:\Users\Komp_\Desktop\End Version\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.AssemblyInfo.cs
+C:\Users\Komp_\Desktop\End Version\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.CoreCompileInputs.cache
+C:\Users\Komp_\Desktop\End Version\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.dll
+C:\Users\Komp_\Desktop\End Version\TaskForm3\obj\Debug\net6.0-windows\refint\TaskForm3.dll
+C:\Users\Komp_\Desktop\End Version\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.pdb
+C:\Users\Komp_\Desktop\End Version\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.genruntimeconfig.cache
+C:\Users\Komp_\Desktop\End Version\TaskForm3\obj\Debug\net6.0-windows\ref\TaskForm3.dll
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.exe
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.deps.json
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.runtimeconfig.json
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.dll
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\bin\Debug\net6.0-windows\TaskForm3.pdb
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.Form1.resources
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.AssemblyInfo.cs
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.dll
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\obj\Debug\net6.0-windows\refint\TaskForm3.dll
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.pdb
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\obj\Debug\net6.0-windows\TaskForm3.genruntimeconfig.cache
+C:\Users\stud\Desktop\C# 19.10\TaskForm3\obj\Debug\net6.0-windows\ref\TaskForm3.dll
